@@ -1,0 +1,2 @@
+# foxbox
+利用ssh来链接termux环境的glibc运行wine，并可以在linux环境下运行
